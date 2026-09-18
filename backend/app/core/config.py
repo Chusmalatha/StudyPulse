@@ -13,6 +13,7 @@ class Settings(BaseSettings):
         "http://127.0.0.1:5173",
         "http://127.0.0.1:5174",
         "https://study-pulse-murex.vercel.app", # Deployed Vercel Frontend
+        "https://studypulse-1-wkfc.onrender.com", # Deployed Render Backend
     ]
     
     # MongoDB Configuration
